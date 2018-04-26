@@ -10,7 +10,7 @@ Offset stays same unlike for the time where unlike other countries where Turkish
 English Source = https://www.theguardian.com/world/2016/sep/08/turkey-to-stay-on-summer-time-all-year-round
 
 This law will be revoked on 28 October 2018
-Module will be updated 15 October 2018 in a similar manner to moment.js
+Module will be updated on 15 October 2018 to work in a similar manner to moment.js
 
 ### Install
 
