@@ -1,0 +1,20 @@
+{
+  "name": "turkish-time",
+  "version": "2.1.0",
+  "description": "Get the Turkish time quickly and in a simple manner",
+  "main": "turkish-time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "turkish",
+    "turkish-time",
+    "time",
+    "istanbul",
+    "time",
+    "ankara",
+    "time"
+  ],
+  "author": "zeromiya",
+  "license": "MIT"
+}
