@@ -12,6 +12,8 @@ English Source = https://www.theguardian.com/world/2016/sep/08/turkey-to-stay-on
 This law will be revoked on 28 October 2018
 Module will be updated on 15 October 2018 to work in a similar manner to moment.js
 
+Edit : The revocation is revoked by the president.
+
 ### Install
 
 You can easily install it by the following command.
